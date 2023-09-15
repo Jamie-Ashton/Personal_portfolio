@@ -62,7 +62,7 @@ section {
     
 }
 #welcome-section {
-    background-image: url("../images/Mt Robert.jpg.jpg");
+    background-image: url("./images/Mt Robert.jpg.jpg");
     background-position: center;
     background-size: cover;
     color: var(--text);
